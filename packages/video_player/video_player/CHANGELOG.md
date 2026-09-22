@@ -1,3 +1,7 @@
+## 2.14.1
+
+* Fixes late position updates after a controller is disposed.
+
 ## 2.14.0
 
 * Adds video quality selection support for HLS/DASH adaptive streams via
